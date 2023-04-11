@@ -2,12 +2,12 @@
 
 :root {
   /* Themes */
-  --text-dm-site-title: #ffa4a4;
-  --text-dm-primary: #ffa4a4;
-  --text-dm-secondary: #d4adad;
-  --dm-contrast: #fbff45;
-  --bg-dm-primary: #130202;
-  --bg-dm-secondary: #1c0b0b;
+  --text-dm-site-title: #FFF;
+  --text-dm-primary: #212121;
+  --text-dm-secondary: #FFF;
+  --dm-contrast: #FFF;
+  --bg-dm-primary: #004a72;
+  --bg-dm-secondary: #006898;
   /* Other vars */
   --border-radius: 2rem;
 }
@@ -170,10 +170,11 @@ header .site-title {
 
 /* footer */
 footer {
-  background: var(--dm-contrast);
+  /*background: var(--dm-contrast);*/
   margin: 10rem 0 -3rem 0;
   padding: 2rem 2.5rem;
   border-radius: var(--border-radius) var(--border-radius) 0 0;
   font-size: 1.2rem;
-  color: var(--bg-dm-secondary);
+  /*color: var(--bg-dm-secondary);*/
+  color: white;
 }
