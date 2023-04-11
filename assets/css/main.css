@@ -2,10 +2,10 @@
 
 :root {
   /* Themes */
-  --text-dm-site-title: #FFF;
+  --text-dm-site-title: #fff;
   --text-dm-primary: #212121;
-  --text-dm-secondary: #FFF;
-  --dm-contrast: #FFF;
+  --text-dm-secondary: #fff;
+  --dm-contrast: #e0f5ff;
   --bg-dm-primary: #004a72;
   --bg-dm-secondary: #006898;
   /* Other vars */
