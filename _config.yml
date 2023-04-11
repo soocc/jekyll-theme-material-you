@@ -1,12 +1,12 @@
-title: Jekyll Material You
+title: soocc.
 markdown: kramdown
 # url: ""
 # baseurl: "/jekyll-theme-material-you"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Samuel Lee
+  email: soocc@soocc.dev
 
 plugins:
   - jemoji
