@@ -11,13 +11,15 @@ description: "
 "
 email: soocc@soocc.dev
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
+  # - title: linkedin
+  #   url: https://www.linkedin.com/in/srsmaurya
+  - title: youtube
+    url: https://youtube.com/sooccc
   - title: github
     url: https://github.com/soocc
   - title: twitter
     url: https://twitter.com/samoocc
-  - title: dev
-    url: https://dev.to/sharadcodes
+  # - title: dev
+  #   url: https://dev.to/sharadcodes
   - title: email
     url: mailto:soocc@soocc.dev
