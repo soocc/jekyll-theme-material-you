@@ -3,6 +3,7 @@ layout: post
 title: Jekyll Markdown
 date: 2021-11-04
 categories: ["jekyll"]
+thumbnail: "assets/images/pattern.png"
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
