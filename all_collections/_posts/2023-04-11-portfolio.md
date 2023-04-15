@@ -6,4 +6,4 @@ categories: ["info"]
 thumbnail: "assets/images/soocc.png"
 ---
 
-My name is john cena
+yes
